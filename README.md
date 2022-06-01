@@ -17,7 +17,6 @@ const me = {
   Tools: [React, jQuery, phpMyAdmin],
   RecentInterests: ["React", "TypeScript", "UX"],
   Studying: [JavaScript, TypeScript, React]
-  Challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 <img alt="javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=white" height="20px"/> <img alt="jquery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jQuery&logoColor=white" height="20px"/> <img alt="react" src ="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=white" height="20px"/> <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" height="20px"/> <img alt="css3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white" height="20px"/>  <img alt="php" src ="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" height="20px"/> <img alt="phpmyadmin" src ="https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=flat&logo=phpMyAdmin&logoColor=white" height="20px"/>
@@ -26,6 +25,6 @@ const me = {
 <br>
 
 ## BLOG
-- <a href="javascript:window.open('https://webcode.tistory.com/')">Tistory</a>
+- <a href="https://webcode.tistory.com/" target="_blank">Tistory</a>
 
 <br>
