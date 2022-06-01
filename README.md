@@ -25,6 +25,6 @@ const me = {
 <br>
 
 ## BLOG
-- [Tistory](https://webcode.tistory.com/" target="_blank")
+- [Tistory](https://webcode.tistory.com/)
 
 <br>
